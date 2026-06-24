@@ -3,7 +3,17 @@ You will research and present an ethical issue related to the Internet and/or Th
 
 ## Issue overview
 
-TBD by you. See instructions below.
+## Issue overview
+
+Deceptive design, or **"dark patterns,"** encompasses user interface strategies intended to manipulate individuals into making decisions they might not otherwise make. Examples include subscriptions that are easy to begin but very difficult to cancel, pre-selected add-ons, unauthorized items added to shopping carts, and even "confirmshaming" messages such as "No thanks, I don't want to save money."
+
+Proponents of these practices argue that the term "dark patterns" is overly broad, and that techniques such as A/B testing, scarcity cues, urgency, and default settings are legitimate business practices. They argue that regulatory efforts by the Federal Trade Commission to address "manipulation" are a regulatory overreach that could harm consumers and effective design.
+
+By contrast, critics characterize dark patterns as a form of digital deception that exploits cognitive biases to extract money and data from users. Because such manipulation is within the interface, individual willpower alone is insufficient to address the issue. Consequently, regulatory intervention should be justified, as demonstrated by the FTC's $2.5 billion settlement with Amazon Prime in 2025.
+
+**Supporting perspective:** [ITIF — The FTC's "Dark Patterns" efforts are regulatory overreach that will hurt consumers](https://itif.org/publications/2023/01/04/the-ftcs-efforts-to-label-practices-dark-patterns-is-an-attempt-at-regulatory-overreach-that-will-hurt-consumers/)
+
+**Critical perspective:** [Berkeley Technology Law Journal — Trapped By Design](https://btlj.org/2025/11/trapped-by-design-how-dark-patterns-manipulate-your-choices-and-the-regulators-fighting-back/)
 
 ## Instructions
 
